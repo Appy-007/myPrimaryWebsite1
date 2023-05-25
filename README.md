@@ -1,2 +1,2 @@
-# myPrimaryWebsite1
-basic website for designing purpose
+# myIntroWebsite
+This is a basic website created for making an intro page
